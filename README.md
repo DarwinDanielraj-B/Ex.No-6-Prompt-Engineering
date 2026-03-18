@@ -35,6 +35,7 @@ else:
   print("\nInsight: The review tone is neutral or negative.")
 ```
 Output:
+
 <img width="782" height="166" alt="image" src="https://github.com/user-attachments/assets/5edffa52-9948-4beb-98e0-c1eb2c8232d4" />
 
 Code for Negative Review:
@@ -64,6 +65,7 @@ else:
     print("\nInsight: The review tone is neutral or negative.")
 ```
 Output:
+
 <img width="858" height="188" alt="image" src="https://github.com/user-attachments/assets/dde04341-057f-4a9e-87b4-2295bf9283a0" />
 
 Result: 
